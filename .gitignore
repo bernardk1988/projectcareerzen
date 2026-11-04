@@ -1,9 +1,10 @@
 .venv/
+results/**/*
 __pycache__/
 *.py[cod]
 db.sqlite3
 db.sqlite3-journal
-result/**/*
+
 
 venv/
 *.log
