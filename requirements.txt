@@ -1,0 +1,7 @@
+pandas
+pdfplumber
+Pillow
+pytesseract
+tabulate
+rich
+openpyxl

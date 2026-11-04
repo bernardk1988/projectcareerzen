@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "Invoice Number": "INV-2026-101",
+            "Date": "24-10-2026",
+            "Email": "customer@gmail.com",
+            "Total": "5000"
+        }
+    ],
+    "Raw_text": "\n\nreadme.md\nproblem statment-\n\nimnput format stand data meaning full-\nsolution statrement-\n\n\nSet-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass\n\n\n\n\n\n\n\n\nInvoice Number:INV-2026-101\nDate:24-10-2026\nEmail:customer@gmail.com\nTotal:Rs.5000\n\n\nProject overview\n\tThe Todo Management system is a Web Application Developed using Python, Django REST Framework(DRF).it allows users to create, view, update, and delete todo tasks using a simple Bootstrap5 interface.\n\nFeatures\ncreate new todo tasks.\nview all todo records in a table.\nupdate existing tasks.\nDelete tasks.\nManage task status: Pending, In progress, and Completed.\nUse DRF serializers for data validation and database operations.\nResponsive user interface using Bootstrap 5.3.8.\nCSRF protection for HTML form submissions.\nNo JavaScript required.\n\nTechnologies Used\n"
+}

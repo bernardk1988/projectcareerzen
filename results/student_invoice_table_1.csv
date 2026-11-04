@@ -1,0 +1,43 @@
+Invoice Number,Date,Email,Total
+INV-2026-101,24-10-2026,customer@gmail.com,5000
+Raw_text
+"
+
+readme.md
+problem statment-
+
+imnput format stand data meaning full-
+solution statrement-
+
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+
+
+
+
+
+
+
+Invoice Number:INV-2026-101
+Date:24-10-2026
+Email:customer@gmail.com
+Total:Rs.5000
+
+
+Project overview
+	The Todo Management system is a Web Application Developed using Python, Django REST Framework(DRF).it allows users to create, view, update, and delete todo tasks using a simple Bootstrap5 interface.
+
+Features
+create new todo tasks.
+view all todo records in a table.
+update existing tasks.
+Delete tasks.
+Manage task status: Pending, In progress, and Completed.
+Use DRF serializers for data validation and database operations.
+Responsive user interface using Bootstrap 5.3.8.
+CSRF protection for HTML form submissions.
+No JavaScript required.
+
+Technologies Used
+"
