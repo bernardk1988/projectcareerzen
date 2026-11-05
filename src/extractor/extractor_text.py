@@ -23,3 +23,7 @@ def extract_invoice_details(text):
         else:
             data[key]= ""
     return pd.DataFrame([data])
+
+
+
+
