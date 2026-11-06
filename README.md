@@ -115,7 +115,7 @@ Run the following command from the project root:
     documind -f studentdetails.pdf --format pdf --output-format json --table 2
 
 - bash
-    documind -f studentdetails.pdf --format pdf --output-format csv --table 1
+    documind -f studentdetails.pdf --format pdf --output-format csv --table 2
 
 - bash
     documind -f studentdetails.pdf --format pdf --output-format json --table 3
@@ -129,7 +129,19 @@ Run the following command from the project root:
 - bash
     documind -f student_invoice.txt --format txt --output-format csv
 
-same way image jpg and xlsx file format use
+- bash 
+    documind -f marks.xlsx --format xlsx --output-format csv
+
+- bash 
+    documind -f marks.xlsx --format xlsx --output-format json
+
+- bash 
+    documind -f student_invoice.jpg --format jpg --output-path csv
+
+- bash 
+    documind -f student_invoice.jpg --format jpg --output-path json
+
+
 
 Replace `studentdetails.pdf` with your input filename. Place input files in the `data/` directory.
 
