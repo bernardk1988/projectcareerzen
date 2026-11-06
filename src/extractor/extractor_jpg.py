@@ -1,10 +1,6 @@
 from PIL import Image
 import pytesseract
-#import os
 
-# if os.name == "nt":
-#    pytesseract.pytesseract.tesseract_cmd = (r"C:\Program Files\Tesseract-OCR\tesseract.exe")
-# else:
 pytesseract.pytesseract.tesseract_cmd = "/usr/bin/tesseract"
 
 def extract_table_jpg(input_file):
