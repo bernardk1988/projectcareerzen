@@ -1,1 +1,7 @@
-pandaspdfplumberpdf2imagePillowpytesseracttabulaterich
+pandas,
+pdfplumber,
+pdf2image,
+Pillow,
+pytesseract,
+tabulate,
+rich,
